@@ -2,7 +2,7 @@
 
 ## How to run
 
-Patch to Super Mario Bros. Deluxe (U V1.1). A .bps patch has been included in the release, for convenience.
+Patch to Super Mario Bros. Deluxe (U V1.1). A .bps patch has been included in the [release](https://github.com/KarisaAdvynia/smbdxtll/releases), for convenience.
 
 If you're unsure whether you have V1.1, see the [disassembly](https://github.com/KarisaAdvynia/smbdx-disasm) for hashes, or ensure in a hex-editor that the byte at $014C is 01 (not 00).
 
