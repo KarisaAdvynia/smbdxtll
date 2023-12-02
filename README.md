@@ -17,7 +17,7 @@ wlalink smbdxtll-linkfile smbdxtll.gbc
 ```
 ## About SMBDXTLL
 
-This hack is an unofficial extension of "Super Mario Bros. for Super Players", a mode based on SMB2 (Japan) in vanilla SMB Deluxe. 1-1 to 8-4 were mostly complete in vanilla, but 9-1 to D-4 existed in the game's data in increasingly unfinished states: they're literally *Lost Levels*.
+This hack is an extension of "Super Mario Bros. for Super Players", a mode based on SMB2 (Japan) in vanilla SMB Deluxe. 1-1 to 8-4 were mostly complete in vanilla, but 9-1 to D-4 existed in the game's data in increasingly unfinished states. Lost Levels isn't just a localized name anymore, since those are literally *lost levels*!
 
 The primary goal is functional Challenge mode versions of each SMB2J level, with red coins, a Yoshi egg, and a high score target. Item placement tries to mimic the vanilla game, but with elements of SMB2J's more precise gameplay, e.g. some red coins require Koopa bounces.
 
@@ -28,7 +28,7 @@ The primary goal is functional Challenge mode versions of each SMB2J level, with
     - The score bar takes 2,000,000 points to fill instead of 1,160,000
     - The background color changes roughly every 500,000 points (green, orange, red, blue, *yellow*)
 - 1-1 to 8-4 are fully implemented in Challenge mode, with all 3 medals obtainable
-- 9-1 to 9-4 are partially implemented-- the levels were fixed up enough to be clearable with all 3 medals, and 9-1 to 9-3 were given custom palettes, but the gameplay isn't fully functional
+- 9-1 to 9-4 are partially implemented-- the levels were fixed up enough to be clearable, the 3 medals are obtainable, and 9-1 to 9-3 were given custom palettes, but the gameplay isn't fully functional
 - A-1 to D-4 are enterable, but they remain in their (mostly unplayable) state that existed unused in the ROM, and don't have red coins/Yoshi eggs/score targets yet<br>&nbsp;
 - Level timers have been fixed to match FDS SMB2J, instead of matching SMB1
 - Loopback pipes don't lead as far back, or don't lead backward at all (precedent: vanilla SMB Deluxe changed SMB1 8-4's loopback pipes)
@@ -51,7 +51,7 @@ Continuing this hack would rely on a proper editor. Assembly-based hacks can onl
 
 ## Other
 
-Feel free to use any part of this in your own hacks-- that's why I've released the source. Credit would be appreciated if you use the code. The levels are just minor fix-ups of Nintendo's, so I don't expect credit for those.
+Feel free to use any part of this in your own hacks-- that's why I've released the source. Credit would be appreciated if you use the code. The levels are just minor edits of Nintendo's, so I don't expect credit for those.
 
 If you have any feedback on the score targets, item placement, etc, feel free to message me (Karisa109 on Discord is the fastest way, at the time of writing).
 
