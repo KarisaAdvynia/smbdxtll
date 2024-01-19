@@ -8,7 +8,7 @@ If you're unsure whether you have V1.1, see the [disassembly](https://github.com
 
 To assemble from source, place these files in the same directory as `smbdxtll.asm`:
 - the vanilla ROM, named `smbdx.gbc`
-- `wla-gb.exe` and `wla-link.exe`, from [WLA DX](https://github.com/vhelin/wla-dx)
+- `wla-gb.exe` and `wlalink.exe`, from [WLA DX](https://github.com/vhelin/wla-dx)
 
 Then run:
 ```
